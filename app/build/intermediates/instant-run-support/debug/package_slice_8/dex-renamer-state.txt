@@ -1,0 +1,4 @@
+#Tue Feb 13 02:17:49 AEDT 2018
+base.0=/Users/thakuhuni/Downloads/ListViewWithJSONFromURL1/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
